@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Arslan</h1>
 <h3 align="center">I develop projects as a .Net Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on **Blue Assos Hotel App**
+- 🔭 I’m currently working on **İnci Group Web Management System**
 
 - 🌱 I’m currently learning **React.js**
 
